@@ -1,0 +1,14 @@
+name: Mirror Repo
+
+on: [push, delete]
+
+jobs:
+  mirror_repo_to_foundation_foundation:
+    name: Mirror Repo to TarsFoundation TarsFoundation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: pixta-dev/repository-mirroring-action@v1
+        with:
+          target_repo_url: git@github.com:tarsfoundation/TarsFoundation.git
+          ssh_private_key: ${{ secrets.TARS_GITHUB_MIRROR_KEY }}
