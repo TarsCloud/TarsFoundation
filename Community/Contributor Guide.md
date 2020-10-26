@@ -56,7 +56,7 @@ A Maintainer is expected to:
 - Have a strong grasp of TARS technology.
 - Be proactive to organize technical seminars and put forward construction projects.
 - Be able to handle more complicated problems in coding.
-- Get unanimously approved by the technical Steering committee (TSC).
+- Get unanimously approved by the Technical Steering Committee (TSC).
 
 As a Maintainer, you have the right to:
 - Devise and decide the technical top-level design of subprojects.
