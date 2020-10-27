@@ -1,4 +1,4 @@
-[中文版](Contributor Guide_cn.md)
+[中文版](https://github.com/TarsCloud/TarsFoundation/blob/master/Community/Contributor%20Guide_cn.md)
 
 # The TARS Foundation Contributor Guide
 The TARS Foundation provides a platform for people who are interested in contributing to an open source project. We not only extends different opportunities for them to contribute to open source projects, but also the possibility to take on leadership roles and create major contributions in the broader open source community. 
