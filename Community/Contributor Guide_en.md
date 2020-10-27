@@ -1,3 +1,5 @@
+[中文版](Contributor Guide_cn.md)
+
 # The TARS Foundation Contributor Guide
 The TARS Foundation provides a platform for developers who are interested in contributing to an open source project. We not only extends different opportunities for developers to contribute to open source projects, but also the possibility to take on leadership roles and create major contributions in the broader open source community. 
 
