@@ -1,7 +1,7 @@
 [中文版](Contributor Guide_cn.md)
 
 # The TARS Foundation Contributor Guide
-The TARS Foundation provides a platform for developers who are interested in contributing to an open source project. We not only extends different opportunities for developers to contribute to open source projects, but also the possibility to take on leadership roles and create major contributions in the broader open source community. 
+The TARS Foundation provides a platform for people who are interested in contributing to an open source project. We not only extends different opportunities for them to contribute to open source projects, but also the possibility to take on leadership roles and create major contributions in the broader open source community. 
 
 There are the roles of **Contributor**, **Committer**, **Maintainer**, and **Ambassador** in our open source ecosystem, each having different requirements and responsibilities. 
 
