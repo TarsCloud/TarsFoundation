@@ -1,4 +1,4 @@
-[Read in English](Contributor Guide_en.md)
+[Read in English](https://github.com/TarsCloud/TarsFoundation/blob/master/Community/Contributor%20Guide_en.md)
 
 # TARS基金会贡献者社区
 
