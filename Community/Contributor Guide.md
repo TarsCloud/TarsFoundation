@@ -68,10 +68,8 @@ As a Maintainer, you have the right to:
 Passionate about open source technology and community, Ambassadors promote and support an extensive use of TARS technology to a wider audience of software developers. Ambassadors’ expertise and involvement in TARS projects will also acquire you greater recognition in the community.
 
 An Ambassador is able to:
-- Become a general member of TARS Foundation.
-- Participate in TARS Foundation’s projects as a contributor, lecturer, or blogger.
-- Engage with developers by presenting at community events or sharing technology articles on online media platforms.
-
+- Already engaged with the project in some way whether that’s as a contributor, blogger, speaker, etc.
+- Willing to speak at community events or write technical content such as blog posts.
 
 # Looking Forward
 Ultimately, the TARS Foundation encourages outstanding contributors to join the governing board and the Technical Steering Committee (TSC). At this level, you will focus on the strategic directions and decision making of the organization as a whole.
