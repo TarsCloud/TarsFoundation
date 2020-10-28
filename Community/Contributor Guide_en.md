@@ -37,10 +37,10 @@ A Committer is expected to:
 - Have contributed to the improvement of project code quality and performance.
 - Have implemented significant features or fixed major bugs.
 
-After meeting the above requirements, you can submit a Committer request:
-  - STEP 1: Provide your proofs of the above criteria under Repo ISSUE.
-  - STEP 2: Submit your pull request after you receive a response with instructions
-  - STEP 3: Once your PR is merged, you will become a TARS Committer.
+After meeting the above requirements, you can submit a Committer application:
+  - Submit your proofs of the above criteria under Repo ISSUE.
+  - Link a pull request to the issue you just submitted. 
+  - After your PR is reviewed and merged, you will become a TARS Committer.
 
 
 As a Committer, you are able to:
