@@ -43,8 +43,8 @@ TARS基金会欢迎所有对开源项目感兴趣的人士参与到我们的社�
 
 达成以上要求后，你可以提交 Committer 申请：
 - 在 Repo Issue 下提出以上贡献举证
-- 根据回复提出 PR
-- 审核通过后成为TARS Committer
+- 关联 Issue 提出 PR
+- 审核通过后，PR将被合并，你就成为TARS Committer了！
 
 成为Committer的你，享有以下权利：
 - 整体把控项目的代码质量
