@@ -16,5 +16,5 @@ CLA
 [Project Governance Model](https://github.com/TarsCloud/TarsFoundation/blob/master/Community/Project%20Governance%20Model.md)
 
 ### How to request changes, and create support issues
-You are welcome to file non-technical [issues](https://github.com/TarsCloud/TarsFoundation/issues) related to [TARS Foundation](https://tarscloud.org/foundation/index
+You are welcome to file non-technical [issues](https://github.com/TarsCloud/TarsFoundation/issues/new) related to [TARS Foundation](https://tarscloud.org/foundation/index
 ) on this repo.
