@@ -1,10 +1,12 @@
-## Welcome to Tars Cloud and TARS Foundation!
+# The TARS Foundation
 
 The TARS Foundation is a nonprofit, open source microservice foundation under the Linux Foundation umbrella to support the rapid growth of contributions and membership for a community focused on building an open microservices platform. In this repository, you will find important TARS Foundation documents and links related to the operation of the TARS Foundation. 
 
 ### Governance
 Charter
+
 [Membership Description&Benefits](https://tarscloud.org/joinnow)
+
 CLA
 
 ### Documents
