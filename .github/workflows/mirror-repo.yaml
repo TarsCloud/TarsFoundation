@@ -7,12 +7,14 @@ jobs:
     name: Mirror Repo to TarsFoundation TarsFoundation
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout If
+        if: github.repository == 'TarsFoundation/TarsFoundation'
+        run: |
+          exit 0;
       - name: Checkout Repo
         uses: actions/checkout@v1
       - name: Mirro Repo
         uses: pixta-dev/repository-mirroring-action@v1
-        if: github.repository == 'TarsCloud/TarsFoundation'
-        run: cat github
         with:
           target_repo_url: git@github.com:tarsfoundation/TarsFoundation.git
           ssh_private_key: ${{ secrets.TARS_GITHUB_MIRROR_KEY }}
