@@ -7,10 +7,9 @@ jobs:
     name: Mirror Repo to TarsFoundation TarsFoundation
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout If
+      - name: Check If
         if: github.repository == 'TarsFoundation/TarsFoundation'
-        run: |
-          exit 0;
+        run: exit 0;
       - name: Checkout Repo
         uses: actions/checkout@v1
       - name: Mirro Repo
