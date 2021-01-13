@@ -42,13 +42,16 @@
  
 ## TARS Foundation project governance plan setup
  
-One very important aspect of open source software foundation is technology, and it comes from projects. Hence, the TARS Foundation values technical projects and follows the project growth stages used by the CNCF: Sandbox => Incubation => Graduation.
+One very important aspect of open source software foundation is technology, and it comes from projects. Hence, the TARS Foundation values technical projects and follows the project growth stages: Sandbox => Incubation => Graduation and Archived.
  
-- The Sandbox level is for the project that is just started in the early stage. The project must have a central idea and developers currently working, but it may not have complete functions. 
+- The Sandbox level is for the project that is just started in the early stage. The project must have a central idea and developers currently working, but it may 
+not have complete functions. 
  
 - The Incubation level is for the project that is ready to enter the production environment, but there may be some specifications in the project that are not consistent with the Foundation’s terms. The project usually needs to improve its documentation in terms of translation, document quality, project CLA, project license, etc.
  
 - The Graduation level is for the project that reaches maturity and fulfills the Foundation charter.
+
+- The Archived level is for the project has successfully been completed or project has been cancelled for unforeseen reasons.
  
 **Specific requirements are as follow:**
  
@@ -63,12 +66,17 @@ To be accepted in the sandbox a project must:
 + A clear versioning scheme.
  
 ### Incubation Stage
+
 In addition to fulfilling the Sandbox requirements, the project must meet at least the first point of each category in the project criteria to be accepted at the incubation level.
 
 ### Graduation Stage
 
 In addition to fulfilling the Sandbox requirements, the project must meet all the requirements in the project criteria in order to become a graduated project.
  
+### Archived Stage
+
+Project in any state can be Archived through a Termination Review.
+
 ## Project Donation Process
 - Submit project proposal through a [ form](https://docs.google.com/forms/u/2/d/1jM_nJcHg08gG3R7tboA-gSSOHlaHgvg3OHt6aBqgfXI/edit).
 - TOC reviews the proposal during a regular meeting and schedules a time for presentation in the next meeting. 
