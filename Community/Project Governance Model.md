@@ -17,7 +17,6 @@
 - Contributors of Project must sign individual CLA ([Contributor License Agreement](https://tarscloud.github.io/TarsDocs_en/cla.html))
 - All copyrights created by the Project belong to the TARS Foundation
  
- 
 ### Releases
  
 - Releases consist of source code and are distributed using standard and open archive formats that are expected to stay readable in the long term. 
@@ -41,7 +40,7 @@
 - Contributors come from multiple organizations.
 - The project has a well-known homepage that points to all the information required to operate according to this project governance plan.
 
-*** Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to this section to reflect our community's characteristics, deviating from the Apache Way *** 
+***Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to this section to reflect our community's characteristics。*** 
 
 ### Consensus Building
  
