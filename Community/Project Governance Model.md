@@ -41,7 +41,7 @@
 - Contributors come from multiple organizations.
 - The project has a well-known homepage that points to all the information required to operate according to this project governance plan.
 
-*** Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to the community to reflect our community's characteristics, deviating from the Apache Way *** 
+*** Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to this section to reflect our community's characteristics, deviating from the Apache Way *** 
 
 ### Consensus Building
  
