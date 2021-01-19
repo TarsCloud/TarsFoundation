@@ -40,8 +40,6 @@
 - Contributors come from multiple organizations.
 - The project has a well-known homepage that points to all the information required to operate according to this project governance plan.
 
-***Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to this section to reflect our community's characteristics。*** 
-
 ### Consensus Building
  
 - The project maintains a public list of its contributors who have decision power -- the project's PMC (Project Management Committee) consists of those contributors.
@@ -52,6 +50,10 @@
 
 - The project is independent from any corporate or organizational influence.
 - Contributors act as themselves as opposed to representatives of a corporation or organization.
+
+***Note: the TARS Community is unique and requires a different set of metrics that are tailored to its members. Hence, we've made adjustments to this section to reflect our community's characteristics。*** 
+
+
 
 ## TARS Foundation project governance plan setup
  
@@ -64,6 +66,7 @@ One very important aspect of open source software foundation is technology, and 
 **Specific requirements are as follow:**
  
 ### Incubation Stage
+
 In addition to fulfilling the Sandbox requirements, the project must meet at least the first point of each category in the project criteria to be accepted at the incubation level.
 
 ### Graduation Stage
