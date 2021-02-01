@@ -6,7 +6,7 @@ b) The Outreach Committee will be responsible for the design, development and ex
 
 c) The Governing Board may appoint a chairperson of the Outreach Committee or delegate responsibility for selecting a chairperson to the Outreach Committee. The Outreach Committee chairperson will be responsible for reporting progress back to the Governing Board. The Outreach Committee chairperson may attend meetings of the Governing Board, but, unless the Outreach Committee chairperson is a member of the Governing Board, the Outreach Committee chairperson will not attend as a voting member of the Governing Board.
 
-# Member Representatives
+## Member Representatives
 
 | Member Company | OC Representative | Designated OC Representative Alternative |
 |----------------|-------------------|------------------------------------------|
@@ -18,7 +18,7 @@ c) The Governing Board may appoint a chairperson of the Outreach Committee or de
 | Kong           | Marco Palladino   |                                          |
 | Zenlayer       | Jim Xu            |                                          |
 
-# Meeting Details
+## Meeting Details
 The Outreach Committee meets on the last Wednesday of each month (subject to change). The meeting slides and agenda shall be shared with the representatives beforehand for review and edit. 
 
 
