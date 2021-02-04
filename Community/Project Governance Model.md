@@ -71,7 +71,7 @@ To be accepted in the Incubation stage, a project must:
 + Have multiple TOC members to step forward as sponsors to enter incubation
 + Follow the TARS Foundation Code of Conduct
 + Adhere to TARS Foundation IP Policy (including trademark transferred)
-+ List their sandbox status prominently on website/readme
++ List their incubation status prominently on website/readme
 + A clear versioning scheme.
 + Meet at least the first point of each category in the project criteria above.
 
@@ -84,7 +84,7 @@ In addition to fulfilling the Incubation requirements, the project must meet all
 - TOC reviews the proposal during a regular meeting and schedules a time for presentation in the next meeting. 
 - The PMC or important committer(s) of the proposed project is/are invited to attend and present the proposal to the TOC members.
 - The TOC members may engage with the project to ask further questions along with the PMC or important committer(s).  
-- TOC will vote to pass the submitted project proposal and decide the respective project stage (Sandbox/Incubation) with a simple majority rule. 
+- TOC will vote to pass the submitted project proposal into incubation with a simple majority rule. 
  
 ## Project Incubation Process 
 
