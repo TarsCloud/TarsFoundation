@@ -67,11 +67,17 @@ One very important aspect of open source software foundation is technology, and 
  
 ### Incubation Stage
 
-In addition to fulfilling the Sandbox requirements, the project must meet at least the first point of each category in the project criteria to be accepted at the incubation level.
+To be accepted in the Incubation stage, a project must:
++ Have multiple TOC members to step forward as sponsors to enter incubation
++ Follow the TARS Foundation Code of Conduct
++ Adhere to TARS Foundation IP Policy (including trademark transferred)
++ List their sandbox status prominently on website/readme
++ A clear versioning scheme.
++ Meet at least the first point of each category in the project criteria above.
 
 ### Graduation Stage
 
-In addition to fulfilling the Sandbox requirements, the project must meet all the requirements in the project criteria in order to become a graduated project.
+In addition to fulfilling the Incubation requirements, the project must meet all the requirements in the project criteria in order to become a graduated project.
  
 ## Project Donation Process
 - Submit project proposal through a [form](https://docs.google.com/forms/u/2/d/1jM_nJcHg08gG3R7tboA-gSSOHlaHgvg3OHt6aBqgfXI/edit).
